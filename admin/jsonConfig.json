@@ -1,0 +1,28 @@
+{
+    "i18n": true,
+    "type": "panel",
+    "items": {
+        "client": {
+            "type": "text",
+            "label": "client",
+            "default": "127.0.0.1",
+            "newLine": true,
+            "xs": 12,
+            "sm": 12,
+            "md": 6,
+            "lg": 4,
+            "xl": 4
+        },
+        "port": {
+            "type": "number",
+            "label": "port",
+            "default": "8085",
+            "newLine": true,
+            "xs": 12,
+            "sm": 12,
+            "md": 6,
+            "lg": 4,
+            "xl": 4
+        }
+    }
+}
